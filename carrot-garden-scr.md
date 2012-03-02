@@ -11,7 +11,7 @@ in eclipse which will be compatible with your non-interactive jenkins maven buil
 
 CarrotGarden SCR is comprised of: annotations, maven plugin, eclipse connector.
 
-### OSGI Annotations
+### Annotations
 
 [carrot-osgi-anno-scr]
 (https://github.com/carrot-garden/carrot-osgi/tree/master/carrot-osgi-anno-scr)
