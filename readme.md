@@ -1,3 +1,3 @@
 
-[carrot-garden-scr.md]
+[carrot-garden-scr](carrot-garden-scr.md)
 
