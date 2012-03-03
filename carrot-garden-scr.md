@@ -18,7 +18,7 @@ CarrotGarden SCR is comprised of: annotations, maven plugin, eclipse connector.
 
 [carrot-osgi-anno-scr]
 (https://github.com/carrot-garden/carrot-osgi/tree/master/carrot-osgi-anno-scr)
-provides osgi annotations and annotation processor.
+provides osgi annotations and the annotation processor.
 
 
 ### Maven Plugin
