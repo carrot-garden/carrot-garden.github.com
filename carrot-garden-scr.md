@@ -3,7 +3,7 @@
 CarrotGarden SCR provides 
 OSGI Service-Component descriptor generator
 according to a proposal described in 
-[RFC 0172 Declarative Services Annotations (p 187)]
+[RFC 0172 Declarative Services Annotations (page 187)]
 (http://www.osgi.org/download/osgi-early-draft-2011-09.pdf).
 
 CarrotGarden SCR allows for interactive SCR component descriptor updates
