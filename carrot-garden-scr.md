@@ -8,7 +8,9 @@ according to a proposal described in
 
 CarrotGarden SCR allows for interactive SCR component descriptor updates
 in eclipse which will be compatible with your non-interactive jenkins maven builds.
+
 Extremely fast. Incremental. Single SCR xml descriptor per component. 
+Watch your SCR descriptors built before your eyes in eclipse maven console.
 
 CarrotGarden SCR is comprised of: annotations, maven plugin, eclipse connector.
 
