@@ -39,7 +39,7 @@ from maven central.
 
 [com.carrotgarden.m2e.scr]
 (https://github.com/carrot-garden/carrot-eclipse/tree/master/com.carrotgarden.m2e/com.carrotgarden.m2e.scr)
-is an m2e eclipse connector for the annotation processor and the maven plugin. 
+is an m2e maven/eclipse connector for the annotation processor and the maven plugin. 
  
 use this 
 [repository update site]
