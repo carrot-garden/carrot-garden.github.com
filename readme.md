@@ -6,3 +6,6 @@
 
 [CarrotGarden AWS Maven Plugin]
 (http://carrot-garden.github.com/carrot-maven/site/carrot-maven-aws-plugin/)
+
+[CarrotGarden AWS S3 Publish Plugin]
+(https://github.com/carrot-garden/carrot-nexus/tree/master/carrot-nexus-aws-s3-publish-plugin)
